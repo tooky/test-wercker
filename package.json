@@ -1,0 +1,13 @@
+{
+  "name": "test-wercker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Steve Tooke <tooky@cucumber.io>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^22.2.1"
+  }
+}
